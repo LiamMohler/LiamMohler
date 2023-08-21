@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **liammohlerr@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1Wl2iFqjKL7kOfhzoWC2oVPXPRQSRJv2JjF5vq5J0xrM/edit?usp=sharing)
+- 📄 Know about my experiences **[here](https://docs.google.com/document/d/1Wl2iFqjKL7kOfhzoWC2oVPXPRQSRJv2JjF5vq5J0xrM/edit?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
