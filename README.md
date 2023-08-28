@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">An aspiring software engineer from Southern California!</h3>
 
-- 🌱 I’m currently learning **more about data structures**
+- 🌱 I’m currently learning **more about data structures and algorithms**
 
 - 📫 How to reach me **liammohlerr@gmail.com**
 
