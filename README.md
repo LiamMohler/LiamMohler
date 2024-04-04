@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">An aspiring software engineer from Southern California!</h3>
 
-- 🌱 I’m currently learning **more about data structures and algorithms**
-
 - 📫 How to reach me **liammohlerr@gmail.com**
 
 - 📄 Know about my experiences **[here](https://docs.google.com/document/d/1Wl2iFqjKL7kOfhzoWC2oVPXPRQSRJv2JjF5vq5J0xrM/edit?usp=sharing) on my resume**
