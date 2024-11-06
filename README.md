@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">An aspiring software engineer from Southern California!</h3>
 
-- 📫 How to reach me **liammohlerr@gmail.com**
-
-- 📄 Know about my experiences **[here](https://docs.google.com/document/d/1Wl2iFqjKL7kOfhzoWC2oVPXPRQSRJv2JjF5vq5J0xrM/edit?usp=sharing) on my resume**
+- 📫 How to reach me **liammohler@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
