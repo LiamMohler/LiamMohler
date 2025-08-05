@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A software engineer from San Diego</h3>
 
-- 🌱 I’m currently learning **springboot and how to leverage AI and increase productivity.**
+- 🌱 I’m currently learning **springboot and how to leverage AI to increase productivity**
 
 - 📫 How to reach me **liammohler@gmail.com**
 
