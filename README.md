@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **liammohler@gmail.com**
 
-- ⚡ Fun fact **I love dinking pickleballs**
+- ⚡ Fun fact **pickleball is my current obsession**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
