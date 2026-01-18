@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liam</h1>
+<h1 align="center">Hi, I'm Liam</h1>
 <h3 align="center">A software engineer from San Diego</h3>
 
 - 📫 How to reach me **liammohler@gmail.com**
